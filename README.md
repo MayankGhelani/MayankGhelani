@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MayankGhelani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mayank Ghelani.
+- 👀 I’m interested in Front-end Web development.
+- 🌱 I’m currently learning React, MySQL, and many more Back-end programming languages. 
+- 📫 How to reach me ... You can reach me by my E-mail: ghelani.mayank01@gmail.com.
+- 
 
-<!---
-MayankGhelani/MayankGhelani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
